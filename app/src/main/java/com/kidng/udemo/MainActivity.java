@@ -10,6 +10,8 @@ public class MainActivity extends AppCompatActivity {
     setContentView(R.layout.activity_main);
 
     //only test branch use method
+
+    //user2 modify
     //user1 modify
   }
 }
